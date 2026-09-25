@@ -2,8 +2,8 @@
 
 **`QA Engineer`**
 
-Sou profissional de TI com mais de 10 anos de experiência e
-hoje minha atuação está com foco na Garantia de Qualidade de Software (QA).<br>
+Sou profissional de TI com mais de 10 anos de experiência.<br>
+Hoje minha atuação está com foco na Garantia de Qualidade de Software (QA).<br>
 Conhecimentos na criação, execução e manutenção de testes manuais e
 automatizados para aplicações Web e APIs. Conhecimentos em Metodologias Ágeis (Scrum/Kanban), BDD Gherkin, atuando no refinamento de requisitos, análise de riscos e prevenção de defeitos em ambientes SaaS, testes de ponta a ponta (E2E) e na
 implementação de práticas de qualidade de fluxo de CI/CD.
